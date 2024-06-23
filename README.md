@@ -3,7 +3,7 @@
 [![GitHub tongxuanbao](https://img.shields.io/github/followers/tongxuanbao?label=follow&style=social)](https://github.com/tongxuanbao)
 
 - 🔭 I’m currently writing [my own database](https://github.com/tongxuanbao/my-own-database)
-- 🌱 I’m currently learning Go ([delivery.baotong.dev](https://delivery.baotong.dev/))
+- 🌱 I’m currently learning Go ([Blog post](https://www.baotong.dev/blog/0-doordash-clone))
 
 <!--
 **tongxuanbao/tongxuanbao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
