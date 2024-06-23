@@ -1,7 +1,9 @@
 ## Bao Tong, or you can call me Ryan 👋
-[![Twitter: BaoTong99](https://img.shields.io/twitter/follow/BaoTong99?style=social)](https://twitter.com/BaoTong99)
 [![Linkedin: baotongxuan](https://img.shields.io/badge/-baotongxuan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/baotongxuan/)](https://www.linkedin.com/in/baotongxuan/)
 [![GitHub tongxuanbao](https://img.shields.io/github/followers/tongxuanbao?label=follow&style=social)](https://github.com/tongxuanbao)
+
+- 🔭 I’m currently writing [my own database](https://github.com/tongxuanbao/my-own-database)
+- 🌱 I’m currently learning Go ([delivery.baotong.dev](https://delivery.baotong.dev/))
 
 <!--
 **tongxuanbao/tongxuanbao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
